@@ -1,0 +1,25 @@
+PVC Card board 3mm
+PVC Card board 5mm
+Solderless Breadboard
+LM 358 IC x 2
+555 Timer IC
+LDR Sensor x 4
+L293D Motor Driver
+10k Resistor x 4
+1k Resistor x 5
+Blue LED x 4
+104pf Capacitor
+103pf Capacitor
+10k Variable Resistor
+100k Variable Resistor
+4148 Diode x 2
+MG996 Servo motor
+Female Header
+5V LED Light
+5V DC Fan
+5V 6W Solar Panel
+DC to DC boost converter LM2587
+LiPo Battery Charger Module Mini TP4056 IC
+On/Off Switch x 3
+18650 Battery Holder – 1 Cell
+18650 Battery Cell 3.7V
